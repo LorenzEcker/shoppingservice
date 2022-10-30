@@ -1,5 +1,5 @@
 # Shoppingservice
-
+Ein einfacher PHP Service der Hilfesuchenden Corona-Kranken es ermöglicht mit Freiwilligen zu kooperieren.
 ## Installationsanleitung
 
 1. XAMPP installieren, zumindest Apache und MySql inklusive PhpMyAdmin
