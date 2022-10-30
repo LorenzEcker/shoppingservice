@@ -16,7 +16,7 @@ class DataManager
         if (!isset(self::$__connection)) {
 
             $type = 'mysql';
-            $host = '192.168.1.105';
+            $host = 'localhost';
             $name = 'shoppingservice';
             $user = 'shoppingservice';
             $pass = 'shoppingservice';
