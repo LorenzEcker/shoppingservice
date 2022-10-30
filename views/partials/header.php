@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>SCM4 Shoppingservice</title>
+    <title>Shoppingservice</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
 
     <link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -23,7 +23,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/">SCM 4 Shoppingservice</a>
+            <a class="navbar-brand" href="/shoppingservice">Shoppingservice</a>
         </div>
 
 

@@ -25,7 +25,9 @@ use Shoppingservice\Util;
                 <td><?php echo $article->getMaxPrice();?></td>
                 <td><?php echo $article->getAmmount();?></td>
                 <td>
-                    <a href="index.php?view=editArticle&aid=<?php echo $article->getArticleId();?>"><button class="btn">Edit</button></a>
+                    <a href="index.php?view=editArticle&aid=<?php echo $article->getArticleId();?>">
+                        <button class="btn">Edit</button>
+                    </a>
                 </td>
                 <td>
                     <form method="post" action="<?php unset($_REQUEST['page']); echo Util::action(\Shoppingservice\Controller::ACTION_DELARTICLE);?>">

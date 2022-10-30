@@ -12,7 +12,7 @@ if(\Shoppingservice\AuthenticationManager::isAuthenticated() && \Shoppingservice
         <div class="jumbotron">
             <div class="alert-info">
                 <h1>Welcome</h1>
-                <p>Welcome to the SCM4 Shoppingservice</p>
+                <p>Welcome to the Shoppingservice</p>
             </div>
         </div>
     </div>
@@ -22,8 +22,8 @@ if(\Shoppingservice\AuthenticationManager::isAuthenticated() && \Shoppingservice
         <h1>Login required</h1>
         <div class="jumbotron">
             <h2>Shoppingservice</h2>
-            <p>To use the services of the SCM4 Shoppingservice please <a href="index.php?view=login">login</a> in.</p>
-            <p>If yout dont have an account, you can't create one yourself!!!</p>
+            <p>To use the services of the Shoppingservice please <a href="index.php?view=login">login</a> in.</p>
+            <p>If you don`t have an account, you can't create one yourself!!!</p>
             <p>In this case please ask the administrator to create one for you manually.</p>
         </div>
     </div>
