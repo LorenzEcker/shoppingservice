@@ -1,6 +1,6 @@
-# shoppingservice
+# Shoppingservice
 
-##Installationsanleitung
+## Installationsanleitung
 
 1. XAMPP installieren, zumindest Apache und MySql inklusive PhpMyAdmin
 2. Das Repository in den htdocs Ordner im xampp ordner klonen
