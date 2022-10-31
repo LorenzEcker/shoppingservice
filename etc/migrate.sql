@@ -21,8 +21,8 @@ SET time_zone = "+00:00";
 -- Datenbank: `fh_2020_scm4_s1810307061`
 --
 
-CREATE DATABASE IF NOT EXISTS fh_2020_scm4_s1810307061;
-USE fh_2020_scm4_s1810307061;
+CREATE DATABASE IF NOT EXISTS shoppingservice;
+USE shoppingservice;
 
 -- --------------------------------------------------------
 
